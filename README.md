@@ -1,8 +1,3 @@
 # fluentd-kubernetes-daemonset-influxdb
-#### Made By:
-
 ---
-
-F. Mollura & A. Dolci
-
-Sorint.LAB
+Dockerfile and Kubernetes Deamonset for fluentd to influxDB
